@@ -1,4 +1,1 @@
-- 👋 Olá Seja Bem Vindo
-- 🧔🏻‍♂️ Meu Nome É Luiz Marcos Abril Silva
-- ✍🏻 Estou Atualmente Cursando Segurança Cibernética 
-- 📮 Me Conta-te Através Do Endereço Eletrônico contatodesenvolvedorluiz@protonmail.com
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ContatoDevLuiz&count_private=true)
